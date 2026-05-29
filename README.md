@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-and-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heart And Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-and-soul/) |
+| **Get License** | [Get a Licensing Quote for Heart And Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-and-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire in the shadows we cast
+> Every little whisper pulling me back
+> You are the rhythm I can never outrun
+> Caught in the middle of a love just begun
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
