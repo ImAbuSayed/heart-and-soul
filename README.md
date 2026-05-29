@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-and-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Heart And Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-and-soul/) |
+| **Get License** | [Commercial Licensing for Heart And Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-and-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bf5d5a119dd44dbc1f027d2f5f0938fd46c853c7511860198d23bdde742a32ab` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
